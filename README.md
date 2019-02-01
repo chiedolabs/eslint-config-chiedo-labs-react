@@ -6,17 +6,17 @@ This is the Chiedo Labs eslint configuration file for React.JS projects. Current
 
 Install this eslint config on npm by running
 
-	  yarn add --dev eslint eslint-config-chiedo-labs-react eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y
+	  yarn add --dev eslint @chiedolabs/eslint-config-react eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y
 
 Add to your project by creating an `.eslintrc` file and then setting the contents to the following.
 
 	  {
-	    "extends": "eslint-config-chiedo-labs-react"
+	    "extends": "@chiedolabs/eslint-config-react"
 	  }
 
 Update `package.json` to always download latest version of Chiedo Labs eslint config:
 
-    "eslint-config-chiedo-labs-react": "latest",
+    "@chiedolabs/eslint-config-react": "latest",
 
 ## Development
 
