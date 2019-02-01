@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-chiedo-labs-react",
-  "version": "0.0.2",
+  "name": "@chiedolabs/eslint-config-react",
+  "version": "0.1.1",
   "description": "Chiedo Labs ESLint config for React Projects",
   "main": "index.js",
   "repository": "git@github.com:chiedolabs/eslint-config-chiedo-labs-react.git",
