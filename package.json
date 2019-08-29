@@ -1,6 +1,6 @@
 {
   "name": "@chiedolabs/eslint-config-react",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Chiedo Labs ESLint config for React Projects",
   "main": "index.js",
   "repository": "git@github.com:chiedolabs/eslint-config-chiedo-labs-react.git",
@@ -16,7 +16,7 @@
   "homepage": "https://github.com/chiedolabs/eslint-config-chiedo-labs-react",
   "devDependencies": {
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.11.1",
+    "eslint": "^6.2.2",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
@@ -24,7 +24,7 @@
   },
   "peerDependencies": {
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.11.1",
+    "eslint": "^6.2.2",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
